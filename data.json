@@ -1,0 +1,120 @@
+{
+    "user": {
+        "id_user": 1,
+        "name": "Ilham Jaya Kusuma",
+        "email": "immut07@gmail.com",
+        "phone_number": "+628159580898",
+        "address": "Jl. Ngentak Sari RT 15 RW 05 Kutowinangn Lor Kecamatan Tingkir Kota Salatiga",
+        "bio": "I have more than 5+ years of experience in Laravel and Vue.js technologies, skilled in developing responsive and interactive web applications.",
+        "profile_picture": "imam.jpg"
+    },
+    "portfolio": [
+        {
+            "id_portfolio": 101,
+            "id_user": 1,
+            "title": "E-commerce Website",
+            "description": "e-commerce website using Laravel and Vue.js.",
+            "image": "portfolio1.png",
+            "date": "2023-05-15"
+        },
+        {
+            "id_portfolio": 102,
+            "id_user": 1,
+            "title": "Mobile App for Event Management",
+            "description": "Created a cross-platform mobile app using React Native for managing events.",
+            "image": "portfolio2.png",
+            "date": "2022-11-10"
+        },
+        {
+            "id_portfolio": 103,
+            "id_user": 1,
+            "title": "News Portal",
+            "description": "Created a news portal using React Native for managing events.",
+            "image": "portfolio3.png",
+            "date": "2023-11-10"
+        }
+    ],
+    "experience": [
+        {
+            "id_experience": 201,
+            "id_user": 1,
+            "company_name": "Tech Solutions",
+            "job_title": "Software Engineer",
+            "start_date": "2020-01-01",
+            "end_date": "2022-12-31",
+            "job_description": "Developed web applications and improved system performance for various clients.",
+            "image": "experience1.png"
+        },
+        {
+            "id_experience": 202,
+            "id_user": 1,
+            "company_name": "Creative Agency",
+            "job_title": "Frontend Developer",
+            "start_date": "2018-06-01",
+            "end_date": "2019-12-31",
+            "job_description": "Worked on UI\/UX design and frontend development for multiple web projects.",
+            "image": "experience2.png"
+        },
+        {
+            "id_experience": 203,
+            "id_user": 1,
+            "company_name": "PT. Dirgave Engine",
+            "job_title": "UI\/UX Design",
+            "start_date": "2017-06-01",
+            "end_date": "2020-12-31",
+            "job_description": "Worked on UI\/UX design and frontend development for multiple web projects.",
+            "image": "experience3.png"
+        }
+    ],
+    "contact_me": [
+        {
+            "id_contact": 1,
+            "name": "Yoga",
+            "email": "yoga@yoga.com",
+            "message": "hallo yoga",
+            "created_at": "2024-10-22 20:09:38"
+        },
+        {
+            "id_contact": 2,
+            "name": "aji",
+            "email": "immut07@gmail.com",
+            "message": "halo aji setiawan",
+            "created_at": "2024-10-25 01:04:39"
+        },
+        {
+            "id_contact": 3,
+            "name": "aji",
+            "email": "immut07@gmail.com",
+            "message": "ssss",
+            "created_at": "2024-10-25 01:11:33"
+        },
+        {
+            "id_contact": 4,
+            "name": "aji",
+            "email": "immut07@gmail.com",
+            "message": "ssss",
+            "created_at": "2024-10-25 01:12:57"
+        },
+        {
+            "id_contact": 5,
+            "name": "Maman",
+            "email": "mana@gmail.com",
+            "message": "halo maman",
+            "created_at": "2024-10-25 01:18:06"
+        },
+        {
+            "id_contact": 6,
+            "name": "alvin dio",
+            "email": "alvin@gmail.com",
+            "message": "halo alvin",
+            "created_at": "2024-10-25 01:19:56"
+        },
+        {
+            "id_contact": 7,
+            "name": "Davin",
+            "email": "davin@gmail.com",
+            "message": "halo davin abi",
+            "created_at": "2024-10-25 01:23:09"
+        }
+    ]
+}
